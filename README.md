@@ -7,4 +7,4 @@ Data visualisation using Matplotlib, Seaborn and Tableau for Intuitive live dash
 Machine Learning and Time series analysis using scikit-learn.
 Sentiment Analysis using NLP - Natural Language Processing tools NLTK and spaCy
 Build API to understand the sentiment of customer review for the specific product using tk-inter.
-We have clustered the customers to segments the customesrs for increasing customer acquisition by proding them special offers.
+We have clustered the customers to segments the customesrs for increasing customer acquisition by providing them special offers.
